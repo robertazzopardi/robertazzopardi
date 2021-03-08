@@ -3,7 +3,9 @@
 <br>
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertazzopardi&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" width="100%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertazzopardi&layout=compact&theme=radical&hide_border=true&langs_count=10"/>
+</a>
 
 <!-- Here are some ideas to get you started:
 

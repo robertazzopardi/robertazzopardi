@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **various individual and collaborative projects**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust**, **docker**, **aws** and **terraform**
 
 - 💬 Ask me about **C/C++ and Java**
 

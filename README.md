@@ -38,5 +38,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-Thanks to: https://github.com/rahuldkjain/github-profile-readme-generator
+Thanks to: [Github profile readme generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 

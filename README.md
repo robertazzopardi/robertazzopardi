@@ -24,8 +24,10 @@ Software developer, currently working for a tech startup in London
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<!--
 ### 😂 Random Dev Meme
 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+-->
 
 Thanks To [GPRM](https://gprm.itsvg.in/)

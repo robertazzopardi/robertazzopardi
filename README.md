@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Software developer, currently working for a tech startup in London
+I was recently accepted to study Robotics at Kings College London
 
 ## 🌐 Socials
 

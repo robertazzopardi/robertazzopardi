@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I was recently accepted to study Robotics at Kings College London
+I study Robotics at Kings College London
 
 ## 🌐 Socials
 

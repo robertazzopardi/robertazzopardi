@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on a tui db client in go<br>🌱 I’m currently learning go<br>
+🔭 I’m currently working on a tui db client in go<br>🌱 I’m currently learning go and zig<br>
+🖥️ Check out my website https://robazzopardi.com
 
 
 ## 🌐 Socials:
